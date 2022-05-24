@@ -1,62 +1,37 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+Hello Microverse
 
-> Description the project.
+> This is a project as part of a code review exercise.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- HTML5, CSS3
+- github flow
+- Git action
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Usage : You can download the zip file https://github.com/digia3d/Hello-world/tree/Hello-Microverse.
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Aleksandra Ujvari**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [https://github.com/githubhandle](https://github.com/digia3d)
+- Twitter:[https://twitter.com/twitterhandle](https://twitter.com/ujvari65)
+- LinkedIn: [https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/aleksandra-ujvari-85235a210/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [../../issues/](https://github.com/digia3d/Hello-world/issues).
 
 ## Show your support
 

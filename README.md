@@ -22,8 +22,9 @@ Hello Microverse
 
 To get a local copy up and running follow these simple example steps.
 
-### Usage : git clone https://github.com/digia3d/Hello-world/tree/Hello-Microverse to clone the project.
-            cd Hello-Microverse to access the cloned repository.
+### Usage : git clone https://github.com/digia3d/Hello-world/tree/Hello-Microverse to clone the project. cd Hello-Microverse to access the cloned repository.
+   
+            
 
 
 

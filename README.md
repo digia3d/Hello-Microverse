@@ -3,6 +3,13 @@
 Hello Microverse
 
 > This is a project as part of a code review exercise.
+> Included a .gitignore file.
+> Set up a linter for HTML and CSS and make sure that any files that are not relevant are ignored by git.
+> Added a descriptive README file to the project.
+> Added 3 files (each one in a separate commit):
+   - .html file that includes a header with the text "Hello Microverse!".
+   - .css file that includes one class with styles for your header.
+   - test.md file with the text "This file should be ignored by git".
 
 
 ## Built With
@@ -12,9 +19,11 @@ Hello Microverse
 - Git action
 
 
+
 To get a local copy up and running follow these simple example steps.
 
-### Usage : You can download the zip file https://github.com/digia3d/Hello-world/tree/Hello-Microverse.
+### Usage : git clone https://github.com/digia3d/Hello-world/tree/Hello-Microverse to clone the project.
+            cd Hello-Microverse to access the cloned repository.
 
 
 
@@ -31,7 +40,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [../../issues/](https://github.com/digia3d/Hello-world/issues).
+Feel free to check the [issues](https://github.com/digia3d/Hello-world/issues).
 
 ## Show your support
 

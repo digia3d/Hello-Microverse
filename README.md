@@ -11,23 +11,30 @@ Hello Microverse
    - .css file that includes one class with styles for your header.
    - test.md file with the text "This file should be ignored by git".
 
-
 ## Built With
 
 - HTML5, CSS3
 - github flow
 - Git action
 
-
+## Getting started
 
 To get a local copy up and running follow these simple example steps.
-
-### Usage : git clone https://github.com/digia3d/Hello-world/tree/Hello-Microverse to clone the project. cd Hello-Microverse to access the cloned repository.
-   
+### Setup
+1. Download the `Zip` file or **Clone the repo with**:
+```bash
+git clone https://github.com/digia3d/Hello-world/tree/Hello-Microverse.git
+```
+2. To access the project directory
+```bash
+cd Hello-Microverse
+```  
             
+### Install the app
 
-
-
+```bash
+npm install
+```
 
 ## Authors
 
